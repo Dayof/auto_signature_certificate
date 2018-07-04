@@ -1,0 +1,7 @@
+EasyProcess==0.2.3
+gbulb==0.5.3
+Pillow==5.2.0
+pycairo==1.17.0
+PyGObject==3.28.3
+pyscreenshot==0.4.2
+travertino==0.1.2
